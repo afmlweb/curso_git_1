@@ -1,5 +1,2 @@
 Testando Repo 12
 a
-b
-c
-d
